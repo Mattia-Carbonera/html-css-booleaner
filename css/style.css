@@ -77,3 +77,23 @@ body {
 .third-column {
     width: 50%;
 }
+
+/* footer */
+
+#footer-photo-monitor {
+    background-image: url('../img/monitor.jpg');
+    width: 300px;
+    height: 200px;
+}
+
+#footer-photo-graph {
+    background-image: url('../img/graph.jpg');
+    width: 300px;
+    height: 200px;
+}
+
+.photo-footer {
+    color: white;
+    font-size: xx-large;
+    margin: 10px;
+}
