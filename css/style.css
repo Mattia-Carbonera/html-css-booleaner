@@ -2,3 +2,16 @@
 body {
     margin: 0;
 }
+
+/* header */
+
+#head-backgrownd {
+    background-image: url('../img/pattern.png');
+    background-color: lightblue;
+    background-size: 350px;
+}
+
+#head-backgrownd img {
+    width: 200px;
+    padding-top: 30px;
+}
